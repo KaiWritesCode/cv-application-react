@@ -7,4 +7,4 @@ the other components.
 
 
 See it here 
- https://therealkai.github.io/cv-application-react/
+ https://kaiwritescode.github.io/cv-application-react/
